@@ -3,8 +3,8 @@
 ## Overview  
 A simple **React.js Calculator App** for basic math operations.  
 
-## Features  
-✔ Supports **+, -, *, /, %**  
+## Features   
+✔ Supports: `+`, `-`, `*`, `/`, `%`, `=`  
 ✔ Includes **Clear (AC) and Backspace**  
 ✔ Simple and easy to use  
 
